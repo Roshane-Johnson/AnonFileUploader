@@ -1,0 +1,11 @@
+C:\Users\Roshane Johnson\Desktop\My Softwares\AnonFileUploader.exe.config
+C:\Users\Roshane Johnson\Desktop\My Softwares\AnonFileUploader.exe
+C:\Users\Roshane Johnson\Desktop\My Softwares\AnonFileUploader.pdb
+C:\Users\Roshane Johnson\source\repos\AnonFileUploader\AnonFileUploader\obj\Debug\AnonFileUploader.csprojAssemblyReference.cache
+C:\Users\Roshane Johnson\source\repos\AnonFileUploader\AnonFileUploader\obj\Debug\AnonFileUploader.Form1.resources
+C:\Users\Roshane Johnson\source\repos\AnonFileUploader\AnonFileUploader\obj\Debug\AnonFileUploader.Properties.Resources.resources
+C:\Users\Roshane Johnson\source\repos\AnonFileUploader\AnonFileUploader\obj\Debug\AnonFileUploader.csproj.GenerateResource.cache
+C:\Users\Roshane Johnson\source\repos\AnonFileUploader\AnonFileUploader\obj\Debug\AnonFileUploader.csproj.CoreCompileInputs.cache
+C:\Users\Roshane Johnson\source\repos\AnonFileUploader\AnonFileUploader\obj\Debug\AnonFileUploader.csproj.CopyComplete
+C:\Users\Roshane Johnson\source\repos\AnonFileUploader\AnonFileUploader\obj\Debug\AnonFileUploader.exe
+C:\Users\Roshane Johnson\source\repos\AnonFileUploader\AnonFileUploader\obj\Debug\AnonFileUploader.pdb
