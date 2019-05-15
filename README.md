@@ -1,2 +1,2 @@
 # AnonFileUploader
-This is a anonfile.com uploader using it's api.
+This software uploads files to anonfile.com and then returns the download link, file name, and file size.
