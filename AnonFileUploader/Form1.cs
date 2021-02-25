@@ -76,7 +76,7 @@ namespace AnonFileUploader
                         {new FileContent(filePath),"file", fileName}
                     };
 
-                    html = request.Post("https://anonfile.com/api/upload", multipartContent).ToString();
+                    html = request.Post("https://api.anonfiles.com/upload", multipartContent).ToString();
                     json = JsonConvert.DeserializeObject(html);
 
                     lbUploadName.Text = json["data"]["file"]["metadata"]["name"];
